@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Zayata Lebox Demo</string>
+    <string name="notifyTitle">Prompt</string>
+    <string name="gpsNotifyMsg">Phone Scanning Bluetooth needs to open the positioning function</string>
+    <string name="setting">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="start_scan">Start scanning</string>
+    <string name="stop_scan">Stop scanning</string>
+    <string name="connect_success">connection success</string>
+    <string name="connect_fail">connection failed</string>
+    <string name="active_disconnected">disconnect</string>
+    <string name="disconnected">Connection disconnect</string>
+    <string name="please_open_blue">Please turn on Bluetooth first</string>
+    <string name="connect">Connect</string>
+    <string name="connected">Connected</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="enter">Enter</string>
+    <string name="connecting">connecting...</string>
+
+</resources>

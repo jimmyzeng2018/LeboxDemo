@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--主色调绿色-->
+    <color name="colorPrimary">#14cc4c</color>
+    <color name="colorPrimaryDark">#14cc4c</color>
+    <color name="colorAccent">#14cc4c</color>
+    <color name="white">#ffffff</color>
+    <color name="white1">#00ffffff</color>
+    <color name="transparent">#5555</color>
+    <color name="toolbar">#064400</color>
+
+    <color name="half_white">#e7ffffff</color>
+
+    <color name="half_transparent">#88000000</color>
+
+    <color name="text_hint_color">#cccccc</color>
+
+    <!--绿色字体-->
+    <color name="green_text">#14cc4c</color>
+    <!--浅绿色-->
+    <color name="light_green">#14cc4c</color>
+
+    <!--辅色浅黑-->
+    <color name="light_black">#2f2f2f</color>
+
+    <!--辅色调灰色-->
+    <color name="gray_text">#8e8e8e</color>
+    <!--深灰色-->
+    <color name="dark_gray">#5e5e5e</color>
+    <!--辅色调灰色-->
+    <color name="deep_text">#b1b1b1</color>
+    <!--浅灰色-->
+    <color name="light_gray">#f2f2f2</color>
+    <!--分割线-->
+    <color name="halving_line">#cccccc</color>
+    <!--浅灰背景-->
+    <color name="background">#ecebeb</color>
+
+    <!--按时-->
+    <color name="on_time">#14cc66</color>
+    <!--超时-->
+    <color name="over_time">#ffd833</color>
+    <!--漏用-->
+    <color name="omitting_time">#ff8b74</color>
+    <!--选中时候的颜色-->
+    <color name="select">#cdf5de</color>
+    <!--tab灰色颜色-->
+    <color name="tab_gray">#eeeeee</color>
+    <color name="tab_gray_text">#666666</color>
+</resources>
